@@ -133,7 +133,7 @@ flowchart TD
 |------------|-----------|
 | Interface | Streamlit |
 | LLM | Olama (Local) |
-| Base de Conhecimento | JSON/CSV com dados do clientes |
+| Base de Conhecimento | CSV com dados do clientes |
 | Validação | Checagem de alucinações |
 ---
 
